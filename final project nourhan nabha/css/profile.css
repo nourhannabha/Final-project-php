@@ -1,0 +1,14 @@
+body{
+  
+    background-image: url("profilebackground.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+a:link,a:visited{color:black;background-color:transparent;text-decoration:none;}
+.par1{float: left;}
+ul{list-style-type: none;margin: 0;padding: 0;overflow: hidden;background-color: transparent;}
+li{float: right;text-align: left;font-size: medium;}
+li a{display: block;color: black;text-align: left;padding: 10px;text-decoration: none;}
+li a:hover{background-color:transparent ;}

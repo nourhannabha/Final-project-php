@@ -1,0 +1,14 @@
+body{background-color: #ffffff;}
+.par1{float:left;}
+ul{list-style-type: none;margin: 0;padding: 0;overflow: hidden;background-color: transparent;}
+li{float: right;text-align: left;font-size: medium;}
+li a{display: block;color: black;text-align: left;padding: 10px;text-decoration: none;}
+li a:hover{background-color:transparent ;}
+h2{text-align: center;font-family: Arial, Helvetica, sans-serif;}
+.par2{font: caption;}
+.par3{font: caption;}
+h3{font: icon;text-align: justify;}
+h4{text-align: center;font-size:large;}
+.img1{float: left; width: 300px;height: 300px;}
+.img2{float: right; width: 300px;height: 300px;}
+.par4{float: left;text-align: center;font: icon;text-align: justify;}

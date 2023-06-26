@@ -1,0 +1,13 @@
+*{
+    font-family: 'poppins' ,sans-serif;
+}
+body{
+    background-image: url("signupbackground.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+a:link,a:visited{color:black;background-color:transparent;text-decoration:none;}
+.btn{font-size: 20px;border-radius: 50%;}
+.btn:hover{background-color: rgba(242,237,233,255);color:rgba(216,195,200,255)}

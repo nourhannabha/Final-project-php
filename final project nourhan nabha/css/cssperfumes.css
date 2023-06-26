@@ -1,0 +1,12 @@
+body{background-color: #ffffff;}
+.par1{float: left;}
+ul{list-style-type: none;margin: 0;padding: 0;overflow: hidden;background-color: transparent;}
+li{float: right;text-align: left;font-size: medium;}
+li a{display: block;color: black;text-align: left;padding: 10px;text-decoration: none;}
+li a:hover{background-color:transparent ;}
+h2{text-align: center;}
+.par2{font:caption;}
+.par3{font: icon;text-align: justify;}
+h3{text-align: center;font:large;}
+.img{width: 200px;height: 300px;display: block;margin-left: auto;margin-right: auto;width: 50%;}
+.par4{text-align: center;font: icon;text-align: justify;}
