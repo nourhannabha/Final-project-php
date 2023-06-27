@@ -40,7 +40,7 @@ $adminname=$_SESSION['a_info'];
      <p style="text-align:center">
      <?php if(isset($_GET['flag'])){
             if($_GET['flag']==1){
-               echo '<a href="mainpage.php"><b>Your order was successful!<b></a>';} 
+               echo '<a href="mainpage.php"><b>Your product was added!<b></a>';} 
             }        
       ?></p>           
 </body>
